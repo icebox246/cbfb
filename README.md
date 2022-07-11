@@ -1,7 +1,7 @@
 # CBFB brainf*ck compiler
 
 Is a compiler which supports both stock [BrainF*ck](https://esolangs.org/wiki/Brainfuck) and [Brainf*ck with Buffer](https://esolangs.org/wiki/Brainfuck$) extension.
-It uses C as it's "intemediate representation".
+It uses C as it's "intermediate representation".
 
 ## How to run?
 
